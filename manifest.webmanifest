@@ -1,0 +1,13 @@
+{
+  "name": "FreshListAI",
+  "short_name": "FreshList",
+  "description": "Stop wasting food. Start saving money.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#FAF6EE",
+  "theme_color": "#6B9B7A",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png", "purpose": "maskable any" }
+  ]
+}

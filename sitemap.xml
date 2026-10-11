@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://freshlistai.app/en/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://freshlistai.app/en/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://freshlistai.app/es/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://freshlistai.app/ru/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://freshlistai.app/zh/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://freshlistai.app/ar/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://freshlistai.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://freshlistai.app/en/"/>
+  </url>
+  <url>
+    <loc>https://freshlistai.app/es/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://freshlistai.app/en/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://freshlistai.app/es/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://freshlistai.app/ru/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://freshlistai.app/zh/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://freshlistai.app/ar/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://freshlistai.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://freshlistai.app/en/"/>
+  </url>
+  <url>
+    <loc>https://freshlistai.app/ru/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://freshlistai.app/en/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://freshlistai.app/es/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://freshlistai.app/ru/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://freshlistai.app/zh/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://freshlistai.app/ar/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://freshlistai.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://freshlistai.app/en/"/>
+  </url>
+  <url>
+    <loc>https://freshlistai.app/zh/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://freshlistai.app/en/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://freshlistai.app/es/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://freshlistai.app/ru/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://freshlistai.app/zh/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://freshlistai.app/ar/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://freshlistai.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://freshlistai.app/en/"/>
+  </url>
+  <url>
+    <loc>https://freshlistai.app/ar/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://freshlistai.app/en/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://freshlistai.app/es/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://freshlistai.app/ru/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://freshlistai.app/zh/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://freshlistai.app/ar/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://freshlistai.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://freshlistai.app/en/"/>
+  </url>
+  <url>
+    <loc>https://freshlistai.app/ja/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://freshlistai.app/en/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://freshlistai.app/es/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://freshlistai.app/ru/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://freshlistai.app/zh/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://freshlistai.app/ar/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://freshlistai.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://freshlistai.app/en/"/>
+  </url>
+  <url>
+    <loc>https://freshlistai.app/en/features</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://freshlistai.app/en/features"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://freshlistai.app/es/features"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://freshlistai.app/ru/features"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://freshlistai.app/zh/features"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://freshlistai.app/ar/features"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://freshlistai.app/ja/features"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://freshlistai.app/en/features"/>
+  </url>
+  <url>
+    <loc>https://freshlistai.app/es/features</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://freshlistai.app/en/features"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://freshlistai.app/es/features"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://freshlistai.app/ru/features"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://freshlistai.app/zh/features"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://freshlistai.app/ar/features"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://freshlistai.app/ja/features"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://freshlistai.app/en/features"/>
+  </url>
+  <url>
+    <loc>https://freshlistai.app/ru/features</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://freshlistai.app/en/features"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://freshlistai.app/es/features"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://freshlistai.app/ru/features"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://freshlistai.app/zh/features"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://freshlistai.app/ar/features"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://freshlistai.app/ja/features"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://freshlistai.app/en/features"/>
+  </url>
+  <url>
+    <loc>https://freshlistai.app/zh/features</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://freshlistai.app/en/features"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://freshlistai.app/es/features"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://freshlistai.app/ru/features"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://freshlistai.app/zh/features"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://freshlistai.app/ar/features"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://freshlistai.app/ja/features"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://freshlistai.app/en/features"/>
+  </url>
+  <url>
+    <loc>https://freshlistai.app/ar/features</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://freshlistai.app/en/features"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://freshlistai.app/es/features"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://freshlistai.app/ru/features"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://freshlistai.app/zh/features"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://freshlistai.app/ar/features"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://freshlistai.app/ja/features"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://freshlistai.app/en/features"/>
+  </url>
+  <url>
+    <loc>https://freshlistai.app/ja/features</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://freshlistai.app/en/features"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://freshlistai.app/es/features"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://freshlistai.app/ru/features"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://freshlistai.app/zh/features"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://freshlistai.app/ar/features"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://freshlistai.app/ja/features"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://freshlistai.app/en/features"/>
+  </url>
+  <url>
+    <loc>https://freshlistai.app/en/pricing</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://freshlistai.app/en/pricing"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://freshlistai.app/es/pricing"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://freshlistai.app/ru/pricing"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://freshlistai.app/zh/pricing"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://freshlistai.app/ar/pricing"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://freshlistai.app/ja/pricing"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://freshlistai.app/en/pricing"/>
+  </url>
+  <url>
+    <loc>https://freshlistai.app/es/pricing</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://freshlistai.app/en/pricing"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://freshlistai.app/es/pricing"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://freshlistai.app/ru/pricing"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://freshlistai.app/zh/pricing"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://freshlistai.app/ar/pricing"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://freshlistai.app/ja/pricing"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://freshlistai.app/en/pricing"/>
+  </url>
+  <url>
+    <loc>https://freshlistai.app/ru/pricing</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://freshlistai.app/en/pricing"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://freshlistai.app/es/pricing"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://freshlistai.app/ru/pricing"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://freshlistai.app/zh/pricing"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://freshlistai.app/ar/pricing"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://freshlistai.app/ja/pricing"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://freshlistai.app/en/pricing"/>
+  </url>
+  <url>
+    <loc>https://freshlistai.app/zh/pricing</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://freshlistai.app/en/pricing"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://freshlistai.app/es/pricing"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://freshlistai.app/ru/pricing"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://freshlistai.app/zh/pricing"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://freshlistai.app/ar/pricing"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://freshlistai.app/ja/pricing"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://freshlistai.app/en/pricing"/>
+  </url>
+  <url>
+    <loc>https://freshlistai.app/ar/pricing</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://freshlistai.app/en/pricing"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://freshlistai.app/es/pricing"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://freshlistai.app/ru/pricing"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://freshlistai.app/zh/pricing"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://freshlistai.app/ar/pricing"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://freshlistai.app/ja/pricing"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://freshlistai.app/en/pricing"/>
+  </url>
+  <url>
+    <loc>https://freshlistai.app/ja/pricing</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://freshlistai.app/en/pricing"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://freshlistai.app/es/pricing"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://freshlistai.app/ru/pricing"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://freshlistai.app/zh/pricing"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://freshlistai.app/ar/pricing"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://freshlistai.app/ja/pricing"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://freshlistai.app/en/pricing"/>
+  </url>
+  <url>
+    <loc>https://freshlistai.app/en/about</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://freshlistai.app/en/about"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://freshlistai.app/es/about"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://freshlistai.app/ru/about"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://freshlistai.app/zh/about"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://freshlistai.app/ar/about"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://freshlistai.app/ja/about"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://freshlistai.app/en/about"/>
+  </url>
+  <url>
+    <loc>https://freshlistai.app/es/about</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://freshlistai.app/en/about"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://freshlistai.app/es/about"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://freshlistai.app/ru/about"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://freshlistai.app/zh/about"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://freshlistai.app/ar/about"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://freshlistai.app/ja/about"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://freshlistai.app/en/about"/>
+  </url>
+  <url>
+    <loc>https://freshlistai.app/ru/about</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://freshlistai.app/en/about"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://freshlistai.app/es/about"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://freshlistai.app/ru/about"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://freshlistai.app/zh/about"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://freshlistai.app/ar/about"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://freshlistai.app/ja/about"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://freshlistai.app/en/about"/>
+  </url>
+  <url>
+    <loc>https://freshlistai.app/zh/about</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://freshlistai.app/en/about"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://freshlistai.app/es/about"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://freshlistai.app/ru/about"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://freshlistai.app/zh/about"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://freshlistai.app/ar/about"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://freshlistai.app/ja/about"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://freshlistai.app/en/about"/>
+  </url>
+  <url>
+    <loc>https://freshlistai.app/ar/about</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://freshlistai.app/en/about"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://freshlistai.app/es/about"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://freshlistai.app/ru/about"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://freshlistai.app/zh/about"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://freshlistai.app/ar/about"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://freshlistai.app/ja/about"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://freshlistai.app/en/about"/>
+  </url>
+  <url>
+    <loc>https://freshlistai.app/ja/about</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://freshlistai.app/en/about"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://freshlistai.app/es/about"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://freshlistai.app/ru/about"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://freshlistai.app/zh/about"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://freshlistai.app/ar/about"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://freshlistai.app/ja/about"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://freshlistai.app/en/about"/>
+  </url>
+  <url>
+    <loc>https://freshlistai.app/en/support</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://freshlistai.app/en/support"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://freshlistai.app/es/support"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://freshlistai.app/ru/support"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://freshlistai.app/zh/support"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://freshlistai.app/ar/support"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://freshlistai.app/ja/support"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://freshlistai.app/en/support"/>
+  </url>
+  <url>
+    <loc>https://freshlistai.app/es/support</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://freshlistai.app/en/support"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://freshlistai.app/es/support"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://freshlistai.app/ru/support"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://freshlistai.app/zh/support"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://freshlistai.app/ar/support"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://freshlistai.app/ja/support"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://freshlistai.app/en/support"/>
+  </url>
+  <url>
+    <loc>https://freshlistai.app/ru/support</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://freshlistai.app/en/support"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://freshlistai.app/es/support"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://freshlistai.app/ru/support"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://freshlistai.app/zh/support"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://freshlistai.app/ar/support"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://freshlistai.app/ja/support"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://freshlistai.app/en/support"/>
+  </url>
+  <url>
+    <loc>https://freshlistai.app/zh/support</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://freshlistai.app/en/support"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://freshlistai.app/es/support"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://freshlistai.app/ru/support"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://freshlistai.app/zh/support"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://freshlistai.app/ar/support"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://freshlistai.app/ja/support"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://freshlistai.app/en/support"/>
+  </url>
+  <url>
+    <loc>https://freshlistai.app/ar/support</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://freshlistai.app/en/support"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://freshlistai.app/es/support"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://freshlistai.app/ru/support"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://freshlistai.app/zh/support"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://freshlistai.app/ar/support"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://freshlistai.app/ja/support"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://freshlistai.app/en/support"/>
+  </url>
+  <url>
+    <loc>https://freshlistai.app/ja/support</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://freshlistai.app/en/support"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://freshlistai.app/es/support"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://freshlistai.app/ru/support"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://freshlistai.app/zh/support"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://freshlistai.app/ar/support"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://freshlistai.app/ja/support"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://freshlistai.app/en/support"/>
+  </url>
+  <url>
+    <loc>https://freshlistai.app/en/privacy</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://freshlistai.app/en/privacy"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://freshlistai.app/es/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://freshlistai.app/ru/privacy"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://freshlistai.app/zh/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://freshlistai.app/ar/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://freshlistai.app/ja/privacy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://freshlistai.app/en/privacy"/>
+  </url>
+  <url>
+    <loc>https://freshlistai.app/es/privacy</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://freshlistai.app/en/privacy"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://freshlistai.app/es/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://freshlistai.app/ru/privacy"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://freshlistai.app/zh/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://freshlistai.app/ar/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://freshlistai.app/ja/privacy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://freshlistai.app/en/privacy"/>
+  </url>
+  <url>
+    <loc>https://freshlistai.app/ru/privacy</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://freshlistai.app/en/privacy"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://freshlistai.app/es/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://freshlistai.app/ru/privacy"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://freshlistai.app/zh/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://freshlistai.app/ar/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://freshlistai.app/ja/privacy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://freshlistai.app/en/privacy"/>
+  </url>
+  <url>
+    <loc>https://freshlistai.app/zh/privacy</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://freshlistai.app/en/privacy"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://freshlistai.app/es/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://freshlistai.app/ru/privacy"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://freshlistai.app/zh/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://freshlistai.app/ar/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://freshlistai.app/ja/privacy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://freshlistai.app/en/privacy"/>
+  </url>
+  <url>
+    <loc>https://freshlistai.app/ar/privacy</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://freshlistai.app/en/privacy"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://freshlistai.app/es/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://freshlistai.app/ru/privacy"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://freshlistai.app/zh/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://freshlistai.app/ar/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://freshlistai.app/ja/privacy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://freshlistai.app/en/privacy"/>
+  </url>
+  <url>
+    <loc>https://freshlistai.app/ja/privacy</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://freshlistai.app/en/privacy"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://freshlistai.app/es/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://freshlistai.app/ru/privacy"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://freshlistai.app/zh/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://freshlistai.app/ar/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://freshlistai.app/ja/privacy"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://freshlistai.app/en/privacy"/>
+  </url>
+  <url>
+    <loc>https://freshlistai.app/en/terms</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://freshlistai.app/en/terms"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://freshlistai.app/es/terms"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://freshlistai.app/ru/terms"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://freshlistai.app/zh/terms"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://freshlistai.app/ar/terms"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://freshlistai.app/ja/terms"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://freshlistai.app/en/terms"/>
+  </url>
+  <url>
+    <loc>https://freshlistai.app/es/terms</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://freshlistai.app/en/terms"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://freshlistai.app/es/terms"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://freshlistai.app/ru/terms"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://freshlistai.app/zh/terms"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://freshlistai.app/ar/terms"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://freshlistai.app/ja/terms"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://freshlistai.app/en/terms"/>
+  </url>
+  <url>
+    <loc>https://freshlistai.app/ru/terms</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://freshlistai.app/en/terms"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://freshlistai.app/es/terms"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://freshlistai.app/ru/terms"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://freshlistai.app/zh/terms"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://freshlistai.app/ar/terms"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://freshlistai.app/ja/terms"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://freshlistai.app/en/terms"/>
+  </url>
+  <url>
+    <loc>https://freshlistai.app/zh/terms</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://freshlistai.app/en/terms"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://freshlistai.app/es/terms"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://freshlistai.app/ru/terms"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://freshlistai.app/zh/terms"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://freshlistai.app/ar/terms"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://freshlistai.app/ja/terms"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://freshlistai.app/en/terms"/>
+  </url>
+  <url>
+    <loc>https://freshlistai.app/ar/terms</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://freshlistai.app/en/terms"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://freshlistai.app/es/terms"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://freshlistai.app/ru/terms"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://freshlistai.app/zh/terms"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://freshlistai.app/ar/terms"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://freshlistai.app/ja/terms"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://freshlistai.app/en/terms"/>
+  </url>
+  <url>
+    <loc>https://freshlistai.app/ja/terms</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://freshlistai.app/en/terms"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://freshlistai.app/es/terms"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://freshlistai.app/ru/terms"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://freshlistai.app/zh/terms"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://freshlistai.app/ar/terms"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://freshlistai.app/ja/terms"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://freshlistai.app/en/terms"/>
+  </url>
+  <url>
+    <loc>https://freshlistai.app/en/photo-credits</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://freshlistai.app/en/photo-credits"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://freshlistai.app/es/photo-credits"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://freshlistai.app/ru/photo-credits"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://freshlistai.app/zh/photo-credits"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://freshlistai.app/ar/photo-credits"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://freshlistai.app/ja/photo-credits"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://freshlistai.app/en/photo-credits"/>
+  </url>
+  <url>
+    <loc>https://freshlistai.app/es/photo-credits</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://freshlistai.app/en/photo-credits"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://freshlistai.app/es/photo-credits"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://freshlistai.app/ru/photo-credits"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://freshlistai.app/zh/photo-credits"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://freshlistai.app/ar/photo-credits"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://freshlistai.app/ja/photo-credits"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://freshlistai.app/en/photo-credits"/>
+  </url>
+  <url>
+    <loc>https://freshlistai.app/ru/photo-credits</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://freshlistai.app/en/photo-credits"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://freshlistai.app/es/photo-credits"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://freshlistai.app/ru/photo-credits"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://freshlistai.app/zh/photo-credits"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://freshlistai.app/ar/photo-credits"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://freshlistai.app/ja/photo-credits"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://freshlistai.app/en/photo-credits"/>
+  </url>
+  <url>
+    <loc>https://freshlistai.app/zh/photo-credits</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://freshlistai.app/en/photo-credits"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://freshlistai.app/es/photo-credits"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://freshlistai.app/ru/photo-credits"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://freshlistai.app/zh/photo-credits"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://freshlistai.app/ar/photo-credits"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://freshlistai.app/ja/photo-credits"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://freshlistai.app/en/photo-credits"/>
+  </url>
+  <url>
+    <loc>https://freshlistai.app/ar/photo-credits</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://freshlistai.app/en/photo-credits"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://freshlistai.app/es/photo-credits"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://freshlistai.app/ru/photo-credits"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://freshlistai.app/zh/photo-credits"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://freshlistai.app/ar/photo-credits"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://freshlistai.app/ja/photo-credits"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://freshlistai.app/en/photo-credits"/>
+  </url>
+  <url>
+    <loc>https://freshlistai.app/ja/photo-credits</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://freshlistai.app/en/photo-credits"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://freshlistai.app/es/photo-credits"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://freshlistai.app/ru/photo-credits"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://freshlistai.app/zh/photo-credits"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://freshlistai.app/ar/photo-credits"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://freshlistai.app/ja/photo-credits"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://freshlistai.app/en/photo-credits"/>
+  </url>
+</urlset>
